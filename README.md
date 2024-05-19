@@ -1,4 +1,4 @@
-# Pian Music Generation Using Diffusion Extention
+# Piano Music Generation Using Diffusion Extention
 
 # Diffwave
 This project uses Diffwave as base model for extention, it is trained with 733,000 on a sample audio size of 14 different monophonic piano tacks. These piano track is sampled with 22.0 KHz and the Diffwave architecture takes about 5 second of sampled audio as an input.
